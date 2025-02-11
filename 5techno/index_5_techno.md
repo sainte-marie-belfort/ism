@@ -14,8 +14,10 @@ Contenu:
 
 * [traitement de données : le réseau informatique local](5_2_traitement_donnees/reseau.html)
 
-<!-- * [création d'une frise chronologique sur les machines à laver](5_1_frise/5_1_creation_frise.html
+<!-- * [création d'une frise chronologique sur les machines à laver](5_1_frise/5_1_creation_frise.html -->
 
+* [Les matériaux d'une maison : diversité et propriétés](5_3_materiaux/5_4_materiau_maison_monde.html)
+<!-- 
  * [quelles solutions choisir pour assurer la fonction d'une constuction ?](5_1c_fonction_partie_maison/5_1c_fonction_partie_maison.html)
 
 * [ les matériaux de construction d'une maison](5_3_materiau_construction/5_3_materiau_construction.html)
@@ -24,8 +26,8 @@ Contenu:
   
 <!-- * [TP sur les familles de matériaux d'une maison](5_3_materiau_famille/5_3_materiau_maison.html)
 
- * [les maisons du monde : TP sur les matériaux et leur propriétés](5_4_materiau_maison_monde/5_4_materiau_maison_monde.html)  -->
-
+ * [les maisons du monde : TP sur les matériaux et leur propriétés](5_4_materiau_maison_monde/5_4_materiau_maison_monde.html)
+ -->
 <!-- * [TP les matériaux utilisés pour l'acheminement de l'eau](5_materiau_tuyaux/5_3_materiau_maison.html) -->
  
 <!-- * [chaîne d'énergie de 3 objets techniques](5_2_energie/5_tp_energie_1.html) 
