@@ -35,7 +35,6 @@
 
 
 # Activité 2 : Quels sont les matériaux utilisés dans les différentes régions de France ? Quelles sont leurs propriétés ?
-[document élève](5_4_materiau_maison_traditionnelle_influence_climatique_eleve.pdf)
 
 Ouvrir le site [maisonsregionales.free.fr](http://maisonsregionales.free.fr/)
 
@@ -49,25 +48,50 @@ Sélectionner "les styles traditionnels"
 
 **Travail à faire:** Cliquer sur les **soleil**»
 
-Pour chaque maison traditionnelle des régions suivantes : **bretagne**, **normandie** et **alsace** , relever : 
+Relever pour les maisons traditionnelles des régions suivantes : **alsace** et **la maison de montagne** : 
 <br>
 
-* les matériaux offerts par la géographie locale (toit et murs).
+* les matériaux offerts par la géographie locale et utilisés pour leur construction.
 
 <br>
 
-* pour quelles contraintes climatiques utilise-ton ces matériaux
-![](5_4_maison_monde_image_maison_regionnales_accueil.png){width=15cm}
+* les raisons climatiques de leur utilisation
 
 <br>
 
 Rechercher le vocabulaire non connu
 
+
+# Activité 3 : recenser les matériaux utilisés dans les toits.
+
+Le toit permet de protéger des intempéries. Il existe pour cela plusieurs solutions techniques (matériaux). Recherche les différents matériaux qu'il est possible d'utiliser pour couvrir un toit pour protéger des intempéries en précisant l'intempérie et isoler l' acoustique, ainsi que leur durée de vie. Complète le document suivant. Aide toi des sites suivants ( à l'exception des toitures terrasse, brande et tôle ondulée)
+
+<br>
+
+![](5_3_materiau_construction_toit_site.jpg)
+<br>
+
+[préservation du patrimoine](https://www.preservationdupatrimoine.fr/choisir-materiau-de-couverture/)
+<br>
+
+[maison en travaux](https://www.maisonentravaux.fr/duree-vie-toiture/)
+<br>
+
+[m-habitat](https://www.m-habitat.fr/toiture/habillage-du-toit/toit-avec-tuiles-en-terre-cuite-251_A)
+<br>
+
+[haute savoie gouvernement](5_3_materiau_construction_toit_ressources-haute_savoie_gouv.pdf)
+<br>
+
+[compagnie des toits](https://www.lacompagniedestoits.com/duree-vie-toit/)
+<br>
+<br>
+Recherche la durée de vie d'une tuile photovoltaique
 <br>
 
 <div class="bilan">
 
-bilan :
+<!-- bilan :
 
 Les bâtiments utilisent des matériaux  :
 <br>
@@ -89,4 +113,4 @@ Les bâtiments utilisent des matériaux  :
 <br>
 * bois : 
 <br>
-* terre :  
+* terre :   -->
